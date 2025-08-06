@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tomra.revaultapp",
+      "sha256_cert_fingerprints": [
+        "4D:07:73:55:5C:B8:43:62:C1:23:F7:58:37:34:96:73:14:93:EB:F8:C2:1C:09:17:10:68:79:9C:2D:8F:AA:10"
+      ]
+    }
+  }
+]
